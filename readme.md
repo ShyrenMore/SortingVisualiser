@@ -9,6 +9,15 @@
 
 <br />
 
+<h2>Interpretation of color</h2>
+
+- array elements are represented by bars, each bar's height represents it's magnitude
+- cyan: unsorted part of array
+- white: elements are getting compared
+- red: elements are out of order for that particular sorting algo
+- dark-green: elements are in order for that particular sorting algo
+- green: sorted part of array
+
 <h2>To be added</h2>
 
 <p>
