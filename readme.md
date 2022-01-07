@@ -27,4 +27,4 @@
     </ol>
 </p>
 
-<h3>For more ref: [Click here](https://github.com/ShyrenMore/BasicDSA/tree/main/Sorting)</h3>
+### For more ref: [Click here](https://github.com/ShyrenMore/BasicDSA/tree/main/Sorting)
